@@ -1,6 +1,10 @@
 # Node modules
 node_modules/
 
+# Build directories
+build/
+dist/
+
 # Local environment files
 .env
 .env.local
