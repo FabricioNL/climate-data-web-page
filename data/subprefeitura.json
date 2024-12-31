@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "nome": "Freguesia do Ó"
+    },
+    {
+        "id": 2,
+        "nome": "Santana"
+    },
+    {
+        "id": 3,
+        "nome": "Sé"
+    },
+    {
+        "id": 4,
+        "nome": "Butantã"
+    },
+    {
+        "id": 5,
+        "nome": "Lapa"
+    },
+    {
+        "id": 6,
+        "nome": "Pinheiros"
+    },
+    {
+        "id": 7,
+        "nome": "Aricanduva/ Vila Formosa"
+    },
+    {
+        "id": 8,
+        "nome": "Penha"
+    },
+    {
+        "id": 9,
+        "nome": "Vila Prudente"
+    },
+    {
+        "id": 10,
+        "nome": "Capela do Socorro"
+    },
+    {
+        "id": 11,
+        "nome": "M'Boi Mirim"
+    },
+    {
+        "id": 12,
+        "nome": "Santo Amaro"
+    },
+    {
+        "id": 13,
+        "nome": "Ipiranga"
+    },
+    {
+        "id": 14,
+        "nome": "Vila Mariana"
+    },
+    {
+        "id": 15,
+        "nome": "Mooca"
+    },
+    {
+        "id": 16,
+        "nome": "Itaim Paulista"
+    },
+    {
+        "id": 17,
+        "nome": "Campo Limpo"
+    },
+    {
+        "id": 18,
+        "nome": "Casa Verde"
+    },
+    {
+        "id": 19,
+        "nome": "Vila Maria/ Vila Guilherme"
+    },
+    {
+        "id": 20,
+        "nome": "Ermelino Matarazzo"
+    },
+    {
+        "id": 21,
+        "nome": "Itaquera"
+    },
+    {
+        "id": 22,
+        "nome": "São Mateus"
+    },
+    {
+        "id": 23,
+        "nome": "Pirituba/Jaraguá"
+    },
+    {
+        "id": 24,
+        "nome": "Cidade Ademar"
+    },
+    {
+        "id": 25,
+        "nome": "Jabaquara"
+    },
+    {
+        "id": 26,
+        "nome": "Jaçanã/ Tremembé"
+    },
+    {
+        "id": 27,
+        "nome": "Parelheiros"
+    },
+    {
+        "id": 28,
+        "nome": "Perus"
+    },
+    {
+        "id": 29,
+        "nome": "Guaianases"
+    },
+    {
+        "id": 30,
+        "nome": "São Miguel Paulista"
+    },
+    {
+        "id": 31,
+        "nome": "Sapopemba"
+    },
+    {
+        "id": 32,
+        "nome": "Cidade Tiradentes"
+    },
+    {
+        "id": 33,
+        "nome": "MG - Vl. Maria / Guilherme"
+    },
+    {
+        "id": 34,
+        "nome": "PRECIPITAÇÃO MÉDIA - ZN"
+    },
+    {
+        "id": 35,
+        "nome": "MP - São Miguel Paulista"
+    },
+    {
+        "id": 36,
+        "nome": "SM - São Mateus"
+    },
+    {
+        "id": 37,
+        "nome": "PRECIPITAÇÃO MÉDIA - ZL"
+    },
+    {
+        "id": 38,
+        "nome": "Bom Retiro"
+    },
+    {
+        "id": 39,
+        "nome": "Consolação"
+    },
+    {
+        "id": 40,
+        "nome": "PRECIPITAÇÃO MÉDIA - ZC"
+    },
+    {
+        "id": 41,
+        "nome": "PRECIPITAÇÃO MÉDIA - ZO"
+    },
+    {
+        "id": 42,
+        "nome": "PRECIPITAÇÃO MÉDIA - ZS"
+    },
+    {
+        "id": 43,
+        "nome": "PRECIPITAÇÃO MÉDIA TOTAL"
+    },
+    {
+        "id": 44,
+        "nome": "Carandirú"
+    }
+]
