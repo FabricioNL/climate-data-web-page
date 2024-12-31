@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FabricioNL/climate-data-web-page/static/css/main.f855e6bc.css",
+    "main.js": "/FabricioNL/climate-data-web-page/static/js/main.a58dc53d.js",
+    "static/js/488.f432e8b4.chunk.js": "/FabricioNL/climate-data-web-page/static/js/488.f432e8b4.chunk.js",
+    "static/media/logo.svg": "/FabricioNL/climate-data-web-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FabricioNL/climate-data-web-page/index.html",
+    "main.f855e6bc.css.map": "/FabricioNL/climate-data-web-page/static/css/main.f855e6bc.css.map",
+    "main.a58dc53d.js.map": "/FabricioNL/climate-data-web-page/static/js/main.a58dc53d.js.map",
+    "488.f432e8b4.chunk.js.map": "/FabricioNL/climate-data-web-page/static/js/488.f432e8b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a58dc53d.js"
+  ]
+}
